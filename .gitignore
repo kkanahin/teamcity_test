@@ -4,3 +4,4 @@
 .env/*
 .idea/*
 local_settings.py
+teamcity_db
